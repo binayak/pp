@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Planning Poker</string>
+    <string name="app_name">PlanningPoker</string>
+    
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="five">5</string>
+    <string name="eight">8</string>
+    <string name="thirteen">13</string>
+    <string name="twenty">20</string>
+    <string name="fourty">40</string>
+    
+    <string name="hundred">100</string>
+    <string name="question">\?</string>
+    <string name="time">Break</string>
+    <string name="credits">Credit</string>
+    
+    <string name="EstimatedPoints">Estimated Points</string>
+    
+    
+    
+    
+
+</resources>
